@@ -1,0 +1,8 @@
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\obj\Debug\Exercicio 1e2 EstruturaDados.csproj.AssemblyReference.cache
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\obj\Debug\Exercicio 1e2 EstruturaDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\obj\Debug\Exercicio 1e2 EstruturaDados.csproj.CoreCompileInputs.cache
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\bin\Debug\Exercicio 1e2 EstruturaDados.exe.config
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\bin\Debug\Exercicio 1e2 EstruturaDados.exe
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\bin\Debug\Exercicio 1e2 EstruturaDados.pdb
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\obj\Debug\Exercicio 1e2 EstruturaDados.exe
+C:\Users\Everymind\Documents\EstruturaDados\Exercicio 1e2 EstruturaDados\Exercicio 1e2 EstruturaDados\obj\Debug\Exercicio 1e2 EstruturaDados.pdb
